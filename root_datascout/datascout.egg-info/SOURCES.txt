@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+datascout/__init__.py
+datascout/explore.py
+datascout/plots.py
+datascout.egg-info/PKG-INFO
+datascout.egg-info/SOURCES.txt
+datascout.egg-info/dependency_links.txt
+datascout.egg-info/requires.txt
+datascout.egg-info/top_level.txt

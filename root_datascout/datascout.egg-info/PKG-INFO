@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: datascout
+Version: 0.1.0
+Summary: A small package for taking a first look at a CSV file of numbers
+Requires-Python: >=3.10
+Requires-Dist: numpy
+Requires-Dist: matplotlib
